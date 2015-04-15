@@ -3,4 +3,4 @@ def hey():
 	if samantha == 'cat':
 		return 'hello'
 	else:
-		return 'ok'
+		return 'lol'
